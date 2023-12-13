@@ -106,7 +106,7 @@
     if($p=="profil"         )   include("profil.php")                               ; else
     if($p=="adatmod"        )   include("adatmod_form.php")                         ; else
     if($p=="jelszomod"      )   include("jelszomod_form.php")                       ; else
-
+    if($p=="profilkep"      )   include("profilkepmod_form.php")                       ; else
 
     
                                 print "<h1>404 - A kért oldal nem található</h1>"   ;   
